@@ -2,7 +2,7 @@
 * Author: Claire Sorenson and Sarah Qudus
 * Date: 2019/08/29
 *
-* A simple hello worls program in C
+* A simple hello world program in C
 *
 */
 #include<stdlib.h>
