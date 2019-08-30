@@ -1,5 +1,5 @@
 /**
-* Author: Claire Sorenson, Parul Aggarwal, Halle Starns, and Sarah Qudus
+* Author: Claire Sorenson and Sarah Qudus
 * Date: 2019/08/29
 *
 * A simple hello worls program in C
@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Claire Sorenson\n");
+  printf("Computer Science and Music\n");
 
   return 0;
 }
